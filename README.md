@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hola, soy Conectar Futuro 👋
 
 
-# Hola soy ConectarFuturo
+# Talleres en ConectarLAB y Casa Del Futuro
+- Streamers
+- Diseño Sonoro para Videojuegos
+- Laboratorio Web
+- 
